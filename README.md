@@ -64,7 +64,7 @@ hotel_images.zip
 <p>This script is for educational purposes only. Ensure you have permission to use scraped images according to their respective licenses.</p>
 
 <h2>📜 License</h2>
-<p>MIT © 2023 Your Name</p>
+<p>MIT © 2025 Prathamesh Ghadage</p>
 
 <div align="center">
   <p>
